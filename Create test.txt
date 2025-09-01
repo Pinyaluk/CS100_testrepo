@@ -1,1 +1,2 @@
 my name is Pinyaluk P.
+Today we learned remote git
